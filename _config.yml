@@ -23,10 +23,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'UW Astronomy Gaia Data Spring 2024'
+description: 'Welcome!'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://preview.free3d.com/img/2019/10/2202388307071993278/6mdjfgvs.jpg"
 
 # Pagination
 paginate: 5
