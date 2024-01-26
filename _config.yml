@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'UW Astronomy Gaia Data Spring 2024'
+title: 'UW Astronomy Gaia Data Sprint'
 description: 'Welcome!'
 permalink: pretty
 logo: "https://preview.free3d.com/img/2019/10/2202388307071993278/6mdjfgvs.jpg"
@@ -38,7 +38,7 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
+- title: Data Resouces
   url: /blog/
 
 # Footer nav
@@ -54,7 +54,7 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/04/gaia_s_sky_in_colour2/17475368-10-eng-GB/Gaia_s_sky_in_colour_pillars.jpg"
 
 # Collection settings
 defaults:
