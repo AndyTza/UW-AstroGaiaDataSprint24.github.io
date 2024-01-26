@@ -21,8 +21,8 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://uw-astro-gaia-datasprint24.github.io'
-baseurl: 'uw-astro-gaia-datasprint24.github.io'
+url: ''
+baseurl: ''
 title: 'UW Astronomy Gaia Data Sprint'
 description: 'Welcome!'
 permalink: pretty
