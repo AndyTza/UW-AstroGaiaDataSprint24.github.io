@@ -21,12 +21,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
+url: 'https://uw-astro-gaia-datasprint24.github.io'
+baseurl: 'uw-astro-gaia-datasprint24.github.io'
 title: 'UW Astronomy Gaia Data Sprint'
 description: 'Welcome!'
 permalink: pretty
-logo: "https://preview.free3d.com/img/2019/10/2202388307071993278/6mdjfgvs.jpg"
+logo: "https://dawgdaze.fyp.uw.edu/wp-content/uploads/2021/09/final_uw_astro_sticker-300x300.png"
 
 # Pagination
 paginate: 5
