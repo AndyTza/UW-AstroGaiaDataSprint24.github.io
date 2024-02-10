@@ -16,13 +16,7 @@ text_color: "white"
             <a href="#event-logistics" style="text-decoration: none; color: #0066cc; font-weight: bold;">Event Logistics</a>
         </div>
         <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
-            <ul style="list-style: none; margin-top: 5px;">
-                <li>
-                    <div style="background-color: #d1c1ff; padding: 8px; border-radius: 6px;">
-                        <a href="#agenda" style="text-decoration: none; color: #0066cc;">Agenda</a>
-                    </div>
-                </li>
-            </ul>
+            <a href="#agenda" style="text-decoration: none; color: #0066cc; font-weight: bold;">Agenda</a>
         </div>
         <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
             <a href="#getting-started" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started</a>
@@ -32,6 +26,7 @@ text_color: "white"
         </div>
     </div>
 </div>
+
 
 
 
