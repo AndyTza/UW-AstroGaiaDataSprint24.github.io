@@ -54,22 +54,22 @@ All further updates and communications will be addressed via Slack. Please see [
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">9:30 AM - 10:00 AM</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Breakfast</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAB 123</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">10:00 AM - 10:30 AM</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Welcome, Introduction, and Code of Conduct</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAB 123</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Welcome, Code of Conduct, and Introductions</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">10:30 AM - 12:00 PM</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Hackathon Session 1</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAB 123</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TDB</td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">12:00 PM - 1:00 PM</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Lunch and Coffee Break</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAB 123</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">1:00 PM - 3:00 PM</td>
