@@ -18,21 +18,6 @@ Here...
 
 ## Agenda
 
-
-| Time               | Event                                     |
-|-------------------|-------------------------------------------|
-| 10:00 AM - 10:30 AM | Welcome, Introduction, and Code of Conduct |
-| 10:30 AM - 12:00 PM | Hackathon Session 1                        |
-| 12:00 PM - 1:00 PM  | Lunch and Coffee Break                    |
-| 1:00 PM - 3:00 PM   | Hackathon Session 2                        |
-| 3:00 PM - 4:30 PM   | Presentations                              |
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
 <table style="width:100%; border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <th style="text-align: left; padding: 10px; background-color: #f2f2f2;">Time</th>
