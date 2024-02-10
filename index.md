@@ -2,7 +2,7 @@
 title:
 feature_text: |
 
-feature_image: "https://cdn.mos.cms.futurecdn.net/F9A5R54nwwkTHFByZNrsvk.gif"
+feature_image: "https://media2.giphy.com/media/c5gfqZKtqIGw3V7ltq/giphy.gif"
 text_color: "white"
 ---
 
