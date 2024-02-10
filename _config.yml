@@ -42,6 +42,8 @@ navigation_header:
   url: /soc/
 - title: Data Resouces
   url: /blog/
+- title: Sponsors
+  url: /sponsors/
 
 # Footer nav
 navigation_footer:
