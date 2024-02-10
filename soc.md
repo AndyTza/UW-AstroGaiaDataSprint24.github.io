@@ -1,5 +1,5 @@
 ---
-title: Organizing Committee 
+title: Organizing Committee
 ---
 
 <style>
@@ -14,15 +14,15 @@ title: Organizing Committee
 
   .team-member img {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     margin-bottom: 10px;
   }
 </style>
 
 <div class="team-member">
-    <img src="https://example.com/path/to/img1.jpg" alt="John Doe">
-    <h3>John Doe</h3>
+    <img src="https://astro.washington.edu/sites/astro/files/styles/portrait/public/photos/dsc_1248_headshot_sm.jpeg?h=51636879&itok=p0thH-0g" alt="Professor James Davenport.">
+    <h3>Professor James Davenport</h3>
     <p class="blurb">Passionate about exploring the cosmos and making astronomy accessible to everyone.</p>
 </div>
 
