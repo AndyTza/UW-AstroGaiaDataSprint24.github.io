@@ -32,6 +32,12 @@ Here is a list of Gaia data related resources:
   - Jupyter notebook science example demos [here](https://datalab.noirlab.edu/docs/manual/UsingAstroDataLab/ScienceExamples/index.html)
   - Getting started with NOIRLab Jupyter notebooks [here](https://datalab.noirlab.edu/docs/manual/UsingAstroDataLab/JupyterNotebooks/JupyterNotebooks.html#sec-jupyternotebooks)
 
+- [GaiaAlertPy](https://gaiaalertspy-docs.readthedocs.io/en/latest/)
+
+- [VizieR Notebook Generator Example](https://cdsarc.cds.unistra.fr/vizier/notebook.gml?source=I/355)
+
+
+
 # Local
 - We will be hosting a [HiPSCated](https://ui.adsabs.harvard.edu/abs/2023AAS...24110506W/abstract) version of Gaia DR3 here. If you are keen to use this version, participants are encouraged to use the latest tool developed by the LINCC Frameworks LSDB.
   - Documentation [here](google.com)
