@@ -44,8 +44,10 @@ We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an eng
 
 # Event Logistics
 
+All further updates and communications will be addressed via Slack. Please see [Getting Started](#getting-started).
 
-## Agenda
+
+# Agenda
 
 <!-- Fancy HTML Table with Breakfast -->
 <table style="width:120%; border-collapse: collapse; border: 1px solid #ddd;">
@@ -85,8 +87,6 @@ We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an eng
     <td style="padding: 8px;">PAB 123</td>
   </tr>
 </table>
-
-All further updates and communications will be addressed via Slack.
 
 
 # Getting Started
