@@ -1,5 +1,5 @@
 ---
-title: Team Members
+title: Organizing Committee 
 ---
 
 <style>
@@ -14,7 +14,8 @@ title: Team Members
 
   .team-member img {
     border-radius: 50%;
-    max-width: 150px;
+    width: 150px;
+    height: 150px;
     margin-bottom: 10px;
   }
 </style>
