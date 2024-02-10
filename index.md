@@ -83,6 +83,7 @@ All further updates and communications will be addressed via Slack. Please see [
   </tr>
 </table>
 
+\
 
 # Getting Started
 
