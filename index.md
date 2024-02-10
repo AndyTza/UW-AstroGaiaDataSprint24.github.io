@@ -22,32 +22,40 @@ We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an eng
   <tr>
     <th style="text-align: left; padding: 10px; background-color: #f2f2f2;">Time</th>
     <th style="text-align: left; padding: 10px; background-color: #f2f2f2;">Event</th>
+    <th style="text-align: left; padding: 10px; background-color: #f2f2f2;">Room Location</th>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">9:30 AM - 10:00 AM</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Breakfast</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>9:30 AM - 10:00 AM</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Breakfast</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>PAB 123</b></td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">10:00 AM - 10:30 AM</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Welcome, Introduction, and Code of Conduct</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>10:00 AM - 10:30 AM</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Welcome, Introduction, and Code of Conduct</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>PAB 123</b></td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">10:30 AM - 12:00 PM</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Hackathon Session 1</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>10:30 AM - 12:00 PM</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Hackathon Session 1</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>TBD</b></td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">12:00 PM - 1:00 PM</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Lunch and Coffee Break</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>12:00 PM - 1:00 PM</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Lunch and Coffee Break</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>TBD</b></td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">1:00 PM - 3:00 PM</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Hackathon Session 2</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>1:00 PM - 3:00 PM</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Hackathon Session 2</b></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>TBD</b></td>
   </tr>
   <tr>
-    <td style="padding: 8px;">3:00 PM - 4:30 PM</td>
-    <td style="padding: 8px;">Presentations</td>
+    <td style="padding: 8px;"><b>3:00 PM - 4:30 PM</b></td>
+    <td style="padding: 8px;"><b>Presentations</b></td>
+    <td style="padding: 8px;"><b> TBD </b></td>
   </tr>
 </table>
+
 
 
 
