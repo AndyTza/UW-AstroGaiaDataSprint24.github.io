@@ -6,6 +6,12 @@ feature_image: "https://www.esa.int/var/esa/storage/images/esa_multimedia/images
 text_color: "white"
 ---
 
+# Table of Contents
+1. [About our Event](#about-our-event)
+2. [Event Logistics](#event-logistics)
+    - [Agenda](#agenda)
+3. [Getting Started](#getting-started)
+
 
 # About our Event
 
@@ -61,10 +67,10 @@ Any further questions can be directed to...
 
 # Getting Started
 
-- Please join our Slack channel
+- Please join our Slack channel [here](google.com)
 - Introduction Slides [here](google.com)
 - Conclusion Slides [here](google.com)
 
 
 ## Getting Started with Gaia DR3 Data Products
-Please see the [Gaia Data Resources Page](https://uw-astro-gaia-datasprint24.netlify.app/about/)
+Please see the [Gaia Data Resources Page](https://uw-astro-gaia-datasprint24.netlify.app/about/).
