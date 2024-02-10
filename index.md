@@ -6,8 +6,7 @@ feature_image: "https://www.esa.int/var/esa/storage/images/esa_multimedia/images
 text_color: "white"
 ---
 
-# Table of Contents
-<div style="background-color: #f8f8f8; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+<div style="background-color: #f8f8f8; padding: 15px; border-radius: 5px; margin-bottom: 20px; max-width: 800px;">
     <h2 style="color: #333; margin-bottom: 10px;">Table of Contents</h2>
     <div style="display: flex; gap: 20px; align-items: center;">
         <a href="#about-our-event" style="text-decoration: none; color: #0066cc; font-weight: bold;">About our Event</a>
@@ -21,6 +20,7 @@ text_color: "white"
         <a href="#code-of-conduct" style="text-decoration: none; color: #0066cc; font-weight: bold;">Code of Conduct</a>
     </div>
 </div>
+
 
 
 # About our Event
@@ -72,7 +72,7 @@ We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an eng
   </tr>
 </table>
 
-Any further questions can be directed to...
+All further updates and communications will be addressed via Slack.
 
 
 # Getting Started
