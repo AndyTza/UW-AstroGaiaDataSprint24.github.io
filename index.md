@@ -18,7 +18,7 @@ We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an eng
 ## Agenda
 
 <!-- Fancy HTML Table with Breakfast -->
-<table style="width:100%; border-collapse: collapse; border: 1px solid #ddd;">
+<table style="width:120%; border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <th style="text-align: left; padding: 10px; background-color: #f2f2f2;"><b>Time</b></th>
     <th style="text-align: left; padding: 10px; background-color: #f2f2f2;"><b>Event</b></th>
