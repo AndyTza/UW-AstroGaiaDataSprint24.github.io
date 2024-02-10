@@ -7,11 +7,28 @@ text_color: "white"
 ---
 
 # Table of Contents
-1. [About our Event](#about-our-event)
-2. [Event Logistics](#event-logistics)
-    - [Agenda](#agenda)
-3. [Getting Started](#getting-started)
-
+<div style="background-color: #f8f8f8; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+    <h2 style="color: #333; margin-bottom: 10px;">Table of Contents</h2>
+    <ol style="list-style: none; padding-left: 0;">
+        <li>
+            <a href="#about-our-event" style="text-decoration: none; color: #0066cc; font-weight: bold;">About our Event</a>
+        </li>
+        <li>
+            <a href="#event-logistics" style="text-decoration: none; color: #0066cc; font-weight: bold;">Event Logistics</a>
+            <ul style="list-style: none; margin-top: 5px;">
+                <li>
+                    <a href="#agenda" style="text-decoration: none; color: #0066cc;">Agenda</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="#getting-started" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started</a>
+        </li>
+        <li>
+            <a href="#code-of-conduct" style="text-decoration: none; color: #0066cc; font-weight: bold;">Code of Conduct</a>
+        </li>
+    </ol>
+</div>
 
 # About our Event
 
@@ -74,3 +91,6 @@ Any further questions can be directed to...
 
 ## Getting Started with Gaia DR3 Data Products
 Please see the [Gaia Data Resources Page](https://uw-astro-gaia-datasprint24.netlify.app/about/).
+
+
+## Code of Conduct
