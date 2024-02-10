@@ -1,40 +1,49 @@
----
-title: Meet Our Team
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Members</title>
+    <style>
+        .team-member {
+            text-align: center;
+            margin-bottom: 20px;
+        }
 
-<style>
-  .team-member {
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin: 20px;
-    padding: 20px;
-    text-align: center;
-    background-color: #f5f5f5;
-  }
+        .team-member img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
 
-  .team-member img {
-    border-radius: 50%;
-    max-width: 150px;
-    margin-bottom: 10px;
-  }
-</style>
-
-# Meet Our Team
+        .blurb {
+            font-style: italic;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
 
 <div class="team-member">
-  <img src="img1.jpg" alt="John Doe">
-  <h2>John Doe</h2>
-  <p>Enthusiastic about creating beautiful and functional websites.</p>
+    <img src="https://example.com/path/to/img1.jpg" alt="John Doe">
+    <h3>John Doe</h3>
+    <p class="blurb">Passionate about exploring the cosmos and making astronomy accessible to everyone.</p>
 </div>
 
 <div class="team-member">
-  <img src="img2.jpg" alt="Jane Smith">
-  <h2>Jane Smith</h2>
-  <p>Passionate about turning ideas into visually appealing designs.</p>
+    <img src="https://astro.washington.edu/sites/astro/files/styles/portrait/public/profile-images/Screen%20Shot%202024-02-10%20at%201.33.38%20PM.png?itok=vND0FoAm" alt="Jane Smith">
+    <h3>Jane Smith</h3>
+    <p class="blurb">Data enthusiast with a keen interest in uncovering patterns and insights in astronomical datasets.</p>
 </div>
 
 <div class="team-member">
-  <img src="img3.jpg" alt="Chris Johnson">
-  <h2>Chris Johnson</h2>
-  <p>Analyzing data to uncover meaningful insights and trends.</p>
+    <img src="https://example.com/path/to/img3.jpg" alt="Chris Johnson">
+    <h3>Chris Johnson</h3>
+    <p class="blurb">Software wizard who loves turning complex problems into elegant solutions for the world of astronomy.</p>
 </div>
+
+</body>
+</html>
