@@ -34,7 +34,7 @@ text_color: "white"
 
 # About our Event
 
-We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an engaging event designed for students interested in astronomy, data science, algorithms, data exploration, and innovation. Organized by the [Department of Astronomy](https://astro.washington.edu/) in collaboration with the Institute of [Data Intensive Research in Astrophysics and Cosmology (DiRAC)](https://dirac.astro.washington.edu/), our collaborative workshop experience will offer a practical opportunity for participants to actively interact with the extensive dataset produced by Gaia. Regardless of your objectives, whether it's harnessing the dataset, acquiring proficiency in its utilization, creating straightforward diagrams, learning, or for our more advanced participants with specific projects in mind, we extend a warm welcome to individuals of all proficiency levels in data science and astronomy. Our foremost priority is to establish a warm and welcoming environment for all participants, fostering collaboration and facilitating a conducive learning experience :rocket:
+We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an engaging event designed for students interested in astronomy, data science, algorithms, data exploration, and innovation. Organized by the [Department of Astronomy](https://astro.washington.edu/) in collaboration with the Institute of [Data Intensive Research in Astrophysics and Cosmology (DiRAC)](https://dirac.astro.washington.edu/), our collaborative workshop experience will offer a practical opportunity for participants to actively interact with the extensive dataset produced by Gaia. Regardless of your objectives, whether it's harnessing the dataset, acquiring proficiency in its utilization, creating diagrams, learning, or for our more advanced participants with specific projects in mind, we extend a warm welcome to individuals of all proficiency levels in data science and astronomy. Our foremost priority is to establish a warm and welcoming environment for all participants, fostering collaboration and facilitating a conducive learning experience :rocket:
 
 
 # Event Logistics
@@ -87,9 +87,9 @@ All further updates and communications will be addressed via Slack. Please see [
 
 # Getting Started
 
-- Please join our Slack channel [here](google.com)
-- Introduction Slides [here](google.com)
-- Conclusion Slides [here](google.com)
+- Please join our Slack channel [here](https://join.slack.com/t/slack-m2g4285/shared_invite/zt-2crka25u8-oXYzYBKllYd81IvsC8kUBw)
+- Introduction Slides [here](https://docs.google.com/presentation/d/1Njbu2Nk1q7dunjGVb2qnmydA5MqXergVMHjwqCO-sQk/edit?usp=sharing)
+- Conclusion Slides [here](https://docs.google.com/presentation/d/1WyhSvMlngvyCVTQwENzZ_MnMEifeFPMXRjN4vqqwN28/edit?usp=sharing)
 
 
 ## Getting Started with Gaia DR3 Data Products
