@@ -1,31 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Team Members</title>
-    <style>
-        .team-member {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+---
+title: Team Members
+---
 
-        .team-member img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            margin-bottom: 10px;
-        }
+<style>
+  .team-member {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f5f5f5;
+  }
 
-        .blurb {
-            font-style: italic;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
+  .team-member img {
+    border-radius: 50%;
+    max-width: 150px;
+    margin-bottom: 10px;
+  }
+</style>
 
 <div class="team-member">
     <img src="https://example.com/path/to/img1.jpg" alt="John Doe">
@@ -34,8 +26,8 @@
 </div>
 
 <div class="team-member">
-    <img src="https://astro.washington.edu/sites/astro/files/styles/portrait/public/profile-images/Screen%20Shot%202024-02-10%20at%201.33.38%20PM.png?itok=vND0FoAm" alt="Jane Smith">
-    <h3>Jane Smith</h3>
+    <img src="https://astro.washington.edu/sites/astro/files/styles/portrait/public/profile-images/Screen%20Shot%202024-02-10%20at%201.33.38%20PM.png?itok=vND0FoAm" alt="Andy Tzanidakis">
+    <h3>Andy Tzanidakis</h3>
     <p class="blurb">Data enthusiast with a keen interest in uncovering patterns and insights in astronomical datasets.</p>
 </div>
 
@@ -44,6 +36,3 @@
     <h3>Chris Johnson</h3>
     <p class="blurb">Software wizard who loves turning complex problems into elegant solutions for the world of astronomy.</p>
 </div>
-
-</body>
-</html>
