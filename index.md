@@ -16,7 +16,7 @@ text_color: "white"
             <a href="#event-logistics" style="text-decoration: none; color: #0066cc; font-weight: bold;">Event Logistics</a>
         </div>
         <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
-            <a href="#agenda" style="text-decoration: none; color: #0066cc; font-weight: bold;">Agenda</a>
+            <a href="#program-itinerary" style="text-decoration: none; color: #0066cc; font-weight: bold;">Program Itinerary</a>
         </div>
         <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
             <a href="#getting-started" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started</a>
@@ -42,7 +42,7 @@ We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an eng
 All further updates and communications will be addressed via Slack. Please see [Getting Started](#getting-started).
 
 
-# Agenda
+# Program Itinerary
 
 <!-- Fancy HTML Table with Breakfast -->
 <table style="width:120%; border-collapse: collapse; border: 1px solid #ddd;">
