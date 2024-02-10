@@ -3,65 +3,38 @@ title: Meet Our Team
 ---
 
 <style>
-    body {
-        background-color: #f5f0ff;
-        color: #333;
-        font-family: 'Arial', sans-serif;
-        max-width: 800px;
-        margin: 0 auto;
-    }
+  .team-member {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f5f5f5;
+  }
 
-    h1, h2, h3 {
-        color: #663399;
-    }
-
-    .team-member {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin-bottom: 30px;
-    }
-
-    .team-member img {
-        width: 150px;
-        height: 150px;
-        border-radius: 50%;
-        margin-bottom: 10px;
-    }
-
-    .team-member .blurb {
-        text-align: center;
-        padding: 10px;
-        background-color: #e5dbff;
-        border-radius: 8px;
-    }
+  .team-member img {
+    border-radius: 50%;
+    max-width: 150px;
+    margin-bottom: 10px;
+  }
 </style>
 
 # Meet Our Team
 
 <div class="team-member">
-    <img src="images/img1.jpg" alt="Team Member 1">
-    <div class="blurb">
-        <strong>John Doe</strong><br>
-        Web Developer<br>
-        Enthusiastic about creating beautiful and functional websites.
-    </div>
+  <img src="images/img1.jpg" alt="John Doe">
+  <h2>John Doe</h2>
+  <p>Enthusiastic about creating beautiful and functional websites.</p>
 </div>
 
 <div class="team-member">
-    <img src="images/img2.jpg" alt="Team Member 2">
-    <div class="blurb">
-        <strong>Jane Smith</strong><br>
-        Graphic Designer<br>
-        Passionate about turning ideas into visually appealing designs.
-    </div>
+  <img src="images/img2.jpg" alt="Jane Smith">
+  <h2>Jane Smith</h2>
+  <p>Passionate about turning ideas into visually appealing designs.</p>
 </div>
 
 <div class="team-member">
-    <img src="images/img3.jpg" alt="Team Member 3">
-    <div class="blurb">
-        <strong>Chris Johnson</strong><br>
-        Data Scientist<br>
-        Analyzing data to uncover meaningful insights and trends.
-    </div>
+  <img src="images/img3.jpg" alt="Chris Johnson">
+  <h2>Chris Johnson</h2>
+  <p>Analyzing data to uncover meaningful insights and trends.</p>
 </div>
