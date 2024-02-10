@@ -1,5 +1,5 @@
 ---
-title: Organizing Committee
+title: Team Members
 ---
 
 <style>
@@ -13,15 +13,16 @@ title: Organizing Committee
   }
 
   .team-member img {
-    border-radius: 50%;
+    border-radius: 10px; /* Maintain rounded corners */
     width: 150px;
-    height: 150px;
+    height: 150px; /* Set a fixed height to make images square */
+    object-fit: cover; /* Maintain aspect ratio and cover the square */
     margin-bottom: 10px;
   }
 </style>
 
 <div class="team-member">
-    <img src="https://astro.washington.edu/sites/astro/files/styles/portrait/public/photos/dsc_1248_headshot_sm.jpeg?h=51636879&itok=p0thH-0g" alt="Professor James Davenport.">
+    <img src="https://example.com/path/to/img1.jpg" alt="John Doe">
     <h3>Professor James Davenport</h3>
     <p class="blurb">Passionate about exploring the cosmos and making astronomy accessible to everyone.</p>
 </div>
@@ -34,6 +35,6 @@ title: Organizing Committee
 
 <div class="team-member">
     <img src="https://example.com/path/to/img3.jpg" alt="Chris Johnson">
-    <h3>Chris Johnson</h3>
+    <h3>Jake Kurlander</h3>
     <p class="blurb">Software wizard who loves turning complex problems into elegant solutions for the world of astronomy.</p>
 </div>
