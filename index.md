@@ -9,26 +9,19 @@ text_color: "white"
 # Table of Contents
 <div style="background-color: #f8f8f8; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
     <h2 style="color: #333; margin-bottom: 10px;">Table of Contents</h2>
-    <ol style="list-style: none; padding-left: 0;">
-        <li>
-            <a href="#about-our-event" style="text-decoration: none; color: #0066cc; font-weight: bold;">About our Event</a>
-        </li>
-        <li>
-            <a href="#event-logistics" style="text-decoration: none; color: #0066cc; font-weight: bold;">Event Logistics</a>
-            <ul style="list-style: none; margin-top: 5px;">
-                <li>
-                    <a href="#agenda" style="text-decoration: none; color: #0066cc;">Agenda</a>
-                </li>
-            </ul>
-        </li>
-        <li>
-            <a href="#getting-started" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started</a>
-        </li>
-        <li>
-            <a href="#code-of-conduct" style="text-decoration: none; color: #0066cc; font-weight: bold;">Code of Conduct</a>
-        </li>
-    </ol>
+    <div style="display: flex; gap: 20px; align-items: center;">
+        <a href="#about-our-event" style="text-decoration: none; color: #0066cc; font-weight: bold;">About our Event</a>
+        <a href="#event-logistics" style="text-decoration: none; color: #0066cc; font-weight: bold;">Event Logistics</a>
+        <ul style="list-style: none; margin-top: 5px;">
+            <li>
+                <a href="#agenda" style="text-decoration: none; color: #0066cc;">Agenda</a>
+            </li>
+        </ul>
+        <a href="#getting-started" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started</a>
+        <a href="#code-of-conduct" style="text-decoration: none; color: #0066cc; font-weight: bold;">Code of Conduct</a>
+    </div>
 </div>
+
 
 # About our Event
 
@@ -94,3 +87,4 @@ Please see the [Gaia Data Resources Page](https://uw-astro-gaia-datasprint24.net
 
 
 ## Code of Conduct
+We invite all UW members who are enthusiastic about data science and astronomy. We welcome all, and will be abide by the [University of Washington Student Code of Conduct](https://www.washington.edu/cssc/expectations/).
