@@ -17,13 +17,15 @@ We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an eng
 Here...
 
 ## Agenda
-| Time           | Event                                      |
-|----------------|--------------------------------------------|
+
+
+| Time               | Event                                     |
+|-------------------|-------------------------------------------|
 | 10:00 AM - 10:30 AM | Welcome, Introduction, and Code of Conduct |
-| 10:30 AM - 12:00 PM | Hackathon Session 1                         |
-| 12:00 PM - 1:00 PM  | Lunch and Coffee Break                     |
-| 1:00 PM - 3:00 PM   | Hackathon Session 2                         |
-| 3:00 PM - 4:30 PM   | Presentations                               |
+| 10:30 AM - 12:00 PM | Hackathon Session 1                        |
+| 12:00 PM - 1:00 PM  | Lunch and Coffee Break                    |
+| 1:00 PM - 3:00 PM   | Hackathon Session 2                        |
+| 3:00 PM - 4:30 PM   | Presentations                              |
 
 
 
