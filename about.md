@@ -2,6 +2,36 @@
 title: Gaia DR3 Data Resources
 ---
 
+<style>
+    body {
+        background-color: #f5f0ff;
+        color: #333;
+        font-family: 'Arial', sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    h1, h2, h3 {
+        color: #663399;
+    }
+
+    a {
+        color: #0066cc;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    blockquote {
+        border-left: 2px solid #663399;
+        margin: 10px 0;
+        padding: 10px;
+    }
+</style>
+
 Below is a list of data resources.
 
 # Gaia Data Products
@@ -14,19 +44,23 @@ Here is a list of Gaia data related resources:
 
 # Data Access
 
+## Tools and Recommendations
 
-
-# Tools and Recommendations
-
-- [ESA Gaia Arhive](https://gea.esac.esa.int/archive/)
+- [ESA Gaia Archive](https://gea.esac.esa.int/archive/)
   - Features include: Basic query, ADQL query, and Single Object Search
 
 - [Astropy Gaia TAP+](https://astroquery.readthedocs.io/en/latest/gaia/gaia.html)
 
 - [TOPCAT](https://www.star.bris.ac.uk/~mbt/topcat/) - TOPCAT is an interactive tool designed to view and edit tabular data, including Gaia products. It supports various data formats, offers advanced visualization and analysis features, and operates as a standalone application.
 
+- [Large Survey DataBase (LSDB)](https://github.com/astronomy-commons/lsdb)
+
 - [NOIRLab JupyterHub](https://datalab.noirlab.edu)
   - :warning: All participants must register [here](https://datalab.noirlab.edu/account/register.html)
   - All available Gaia products hosted by NOIRLab [here](https://datalab.noirlab.edu/gaia.php).
   - Jupyter notebook science example demos [here](https://datalab.noirlab.edu/docs/manual/UsingAstroDataLab/ScienceExamples/index.html)
   - Getting started with NOIRLab Jupyter notebooks [here](https://datalab.noirlab.edu/docs/manual/UsingAstroDataLab/JupyterNotebooks/JupyterNotebooks.html#sec-jupyternotebooks)
+
+# Local
+- We will be hosting a [HiPSCated](https://ui.adsabs.harvard.edu/abs/2023AAS...24110506W/abstract) version of Gaia DR3 here. If you are keen to use this version, participants are encouraged to use the latest tool developed by the LINCC Frameworks LSDB.
+  - Documentation [here](google.com)
