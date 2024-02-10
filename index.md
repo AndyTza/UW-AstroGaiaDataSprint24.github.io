@@ -78,7 +78,7 @@ All further updates and communications will be addressed via Slack. Please see [
   </tr>
   <tr>
     <td style="padding: 8px;">3:00 PM - 4:30 PM</td>
-    <td style="padding: 8px;">Presentations</td>
+    <td style="padding: 8px;">Coffee & Tea and Presentations</td>
     <td style="padding: 8px;">PAB 123</td>
   </tr>
 </table>

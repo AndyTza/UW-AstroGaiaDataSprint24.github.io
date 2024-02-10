@@ -14,8 +14,8 @@ title: Organizing Committee
 
   .team-member img {
     border-radius: 50%;
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     margin-bottom: 10px;
   }
 </style>
