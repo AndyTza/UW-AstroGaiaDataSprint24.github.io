@@ -61,10 +61,10 @@ Any further questions can be directed to...
 
 # Getting Started
 
-## Before Event Recommendations
+- Please join our Slack channel
+- Introduction Slides [here](google.com)
+- Conclusion Slides [here](google.com)
+
 
 ## Getting Started with Gaia DR3 Data Products
-
-### Learning about Gaia
-
-### Accessing Gaia Data Products
+Please see the [Gaia Data Resources Page](https://uw-astro-gaia-datasprint24.netlify.app/about/)
