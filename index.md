@@ -2,7 +2,7 @@
 title:
 feature_text: |
 
-feature_image: "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/04/gaia_s_sky_in_colour2/17475368-10-eng-GB/Gaia_s_sky_in_colour_pillars.jpg"
+feature_image: "https://cdn.mos.cms.futurecdn.net/F9A5R54nwwkTHFByZNrsvk.gif"
 text_color: "white"
 ---
 
