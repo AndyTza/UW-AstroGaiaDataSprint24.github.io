@@ -6,14 +6,16 @@ feature_image: "https://www.esa.int/var/esa/storage/images/esa_multimedia/images
 text_color: "white"
 ---
 
-<div style="background-color: #f5f0ff; padding: 15px; border-radius: 10px; margin-bottom: 20px; max-width: 1000px;">
+<div style="background-color: #f5f0ff; padding: 15px; border-radius: 10px; margin-bottom: 20px; max-width: 1000px; text-align: center;">
     <h2 style="color: #333; margin-bottom: 10px;">Table of Contents</h2>
-    <div style="display: flex; gap: 20px; align-items: center;">
+    <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
         <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
             <a href="#about-our-event" style="text-decoration: none; color: #0066cc; font-weight: bold;">About our Event</a>
         </div>
         <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
             <a href="#event-logistics" style="text-decoration: none; color: #0066cc; font-weight: bold;">Event Logistics</a>
+        </div>
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
             <ul style="list-style: none; margin-top: 5px;">
                 <li>
                     <div style="background-color: #d1c1ff; padding: 8px; border-radius: 6px;">
@@ -30,6 +32,7 @@ text_color: "white"
         </div>
     </div>
 </div>
+
 
 
 
