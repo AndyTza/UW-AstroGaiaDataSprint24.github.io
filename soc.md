@@ -34,7 +34,7 @@ title: Team Members
 </div>
 
 <div class="team-member">
-    <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_281e0877fb7cd6c32e02de3922dc8c05.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1708106795&Signature=WylVxx80ke7ezUZkMoVqYbhykIY%3D" alt="Chris Johnson">
+    <img src="https://hackmd.io/_uploads/B1EemXTsT.png" alt="Chris Johnson">
     <h3>Jake Kurlander</h3>
     <p class="blurb">Jake creates and works with simulated asteroid data, but sometimes gets real asteroid data as a treat.</p>
 </div>
