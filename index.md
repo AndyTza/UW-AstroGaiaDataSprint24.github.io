@@ -54,12 +54,12 @@ All further updates and communications will be addressed via Slack. Please see [
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">9:30 AM - 10:00 AM</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Breakfast</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAA A216</td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">10:00 AM - 10:30 AM</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Welcome, Code of Conduct, and Introductions</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAA A216</td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">10:30 AM - 12:00 PM</td>
@@ -74,16 +74,16 @@ All further updates and communications will be addressed via Slack. Please see [
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">1:00 PM - 3:00 PM</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Hackathon Session 2</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAB 123</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAA A216</td>
   </tr>
   <tr>
     <td style="padding: 8px;">3:00 PM - 4:30 PM</td>
     <td style="padding: 8px;">Coffee & Tea and Presentations</td>
-    <td style="padding: 8px;">PAB 123</td>
+    <td style="padding: 8px;">TBD</td>
   </tr>
 </table>
 
-\
+Further itinerary updates will be announced via [Slack](https://join.slack.com/t/slack-m2g4285/shared_invite/zt-2crka25u8-oXYzYBKllYd81IvsC8kUBw).
 
 # Getting Started
 
