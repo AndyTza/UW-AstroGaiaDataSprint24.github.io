@@ -24,7 +24,7 @@ title: Team Members
 <div class="team-member">
     <img src="https://astro.washington.edu/sites/astro/files/styles/portrait/public/photos/dsc_1248_headshot_sm.jpeg?h=51636879&itok=p0thH-0g" alt="John Doe">
     <h3>Professor James Davenport</h3>
-    <p class="blurb">Professor Davenport is the Associate Director of the DiRAC Institute. His research focuses on stellar variables and optical technosignatures/SETI project in  large surveys.</p>
+    <p class="blurb">Professor Davenport is the Associate Director of the DiRAC Institute. His research focuses on stellar variables and optical technosignatures/SETI projects using large surveys.</p>
 </div>
 
 <div class="team-member">
