@@ -13,15 +13,15 @@ title: Practical Advice
   }
 
   .team-member img {
-    border-radius: 5px; /* Maintain rounded corners */
-    width: 370px;
-    height: 370px; /* Set a fixed height to make images square */
+    border-radius: 2px; /* Maintain rounded corners */
+    width: 380px;
+    height: 380px; /* Set a fixed height to make images square */
     object-fit: cover; /* Maintain aspect ratio and cover the square */
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
 </style>
 
-TL;DR see [Advice](#Advice)! 
+TL;DR see [Advice](#advice)! 
 
 ## Philosophy
 
