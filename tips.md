@@ -13,7 +13,7 @@ title: Practical Advice
   }
 
   .team-member img {
-    border-radius: 10px; /* Maintain rounded corners */
+    border-radius: 5px; /* Maintain rounded corners */
     width: 370px;
     height: 370px; /* Set a fixed height to make images square */
     object-fit: cover; /* Maintain aspect ratio and cover the square */
@@ -21,37 +21,33 @@ title: Practical Advice
   }
 </style>
 
-
-
+TL;DR see [Advice](#Advice)! 
 
 ## Philosophy
 
-I will never forget the morning I was headed to the Flatiorn Institute at the CCA to join a group of many astronomers to hack on the newly minted Gaia Data Release 2. At the time, I was an undergrdaute student that barely had any experience doing research in astronomy, let alone knowing what Gaia was. Nonthless, my advisors suggested I joined the Gaia DR2 hackathon because they believed workshops like it, are in essence the best part of doing science: working with people.
+I will never forget the morning I headed to the Flatiron Institute at the Center for Computational Astrophysics (CCA) to join a group of astronomers for a hackathon on the newly released Gaia Data Release 2. At the time, I was an undergraduate student with barely any research experience in astronomy, and Gaia was a relatively unknown entity to me. Nevertheless, my advisors suggested I participate in the Gaia DR2 hackathon, believing that such workshops are, at their core, the most enjoyable aspect of scientific work: collaboration.
 
-Even though it was a staggering 8AM (gotta love those energetic 8AM New York mornings), once I walked in this room - it was like a playground of people eagerly excited to start talking to others about projects and science that they had been waiting for years to do. Others, like myself, were there just for the ride - one that I soon realized was a pivotal moment for my career.
+Despite the early hour (a lively 8 AM in bustling New York), as I entered the room, it felt like stepping into a playground where people were eagerly excited to discuss projects and scientific ideas they had been waiting for years to explore. Shouts and voices of awe were across the room as the astronomers were making their first diagrams, actively discovering the *legitimate* unexpected. Some, like myself, were there merely for the experience—a journey that I soon realized was a pivotal moment in my career.
 
-I even made a plot, a simple scatter plot of the position of stars near the vicinity of the infamous Androemda Galaxy - and coincidentally my first ever 
-
+During the event, I created a simple scatter plot depicting the positions of stars near the notorious Andromeda Galaxy. It was awe-inspiring to discover that Gaia's sensitivity allowed it to detect stars in a galaxy located 2.5 million light years away from us. While my plot was rudimentary, it marked a significant step in my comfort with thinking and working with Gaia.
 
 <div class="team-member">
-    <img src="https://pbs.twimg.com/media/Dboi6e9XUAEvAS4?format=jpg&name=large" alt="John Doe">
-    <h3>Professor James Davenport</h3>
-    <p class="blurb">Professor Davenport is the Associate Director of the DiRAC Institute. His research focuses on stellar variables and optical technosignatures/SETI projects using large surveys.</p>
+    <img src="https://pbs.twimg.com/media/Dboi6e9XUAEvAS4?format=jpg&name=large" alt="M31">
+    <p class="blurb">Scatter plot of a cone-search in the vicinity of M31.</p>
 </div>
 
+As we approach another major data revolution in Astronomy, with the imminent start of the Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST), the Nancy Grace Roman Space Telescope, the recently launched JWST, and the future releases of Gaia DR4 and Gaia Legacy Survey, the excitement is undeniable. 
 
-
-
-Almost 6 years later, we, and yet there is still so much we want to learn. 
-
-We hope you find this workshop educative, perhaps an opportunity to further. 
-
-
+We hope you find this workshop educational and that it provides an opportunity to meet new people, engage in discussions, and learn collaboratively—ingredients that make our jobs so enjoyable.
 
 ## Advice
-
 1. Make friends
 2. Come with ideas or be willing to learn new ones! 
-
-
+3. It's okay to come with ideas to the workshop. It's also *equally* okay to come to the workshop with no ideas. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
 10. Above all, have fun and make friends. The best part of science is X. 

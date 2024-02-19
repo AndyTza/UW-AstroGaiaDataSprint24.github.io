@@ -91,7 +91,7 @@ Further itinerary updates will be announced via [Slack](https://join.slack.com/t
 ## Getting Started with Gaia DR3 Data Products
 Please see the [Gaia Data Resources Page](https://uw-astro-gaia-datasprint24.netlify.app/about/).
 
-## How to have a Impactful Hackathon?
+## Hackathon Advice
 Is this your first time hacking? Astronomy related? Please see our [Astro Hackathon Tips](https://uw-astro-gaia-datasprint24.netlify.app/tips/).
 
 ## Code of Conduct
