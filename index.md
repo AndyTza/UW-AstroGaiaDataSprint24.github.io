@@ -28,10 +28,6 @@ text_color: "white"
 </div>
 
 
-
-
-
-
 # About our Event
 
 We are eager to welcome you all to the Gaia 2024 Data Sprint & Hackathon, an engaging event designed for students interested in astronomy, data science, algorithms, data exploration, and innovation. Organized by the [Department of Astronomy](https://astro.washington.edu/) in collaboration with the Institute of [Data Intensive Research in Astrophysics and Cosmology (DiRAC)](https://dirac.astro.washington.edu/), our collaborative workshop experience will offer a practical opportunity for participants to actively interact with the extensive dataset produced by Gaia. Regardless of your objectives, whether it's harnessing the dataset, acquiring proficiency in its utilization, creating diagrams, learning, or for our more advanced participants with specific projects in mind, we extend a warm welcome to individuals of all proficiency levels in data science and astronomy. Our foremost priority is to establish a warm and welcoming environment for all participants, fostering collaboration and facilitating a conducive learning experience :rocket:
@@ -95,6 +91,8 @@ Further itinerary updates will be announced via [Slack](https://join.slack.com/t
 ## Getting Started with Gaia DR3 Data Products
 Please see the [Gaia Data Resources Page](https://uw-astro-gaia-datasprint24.netlify.app/about/).
 
+## How to have a Impactful Hackathon?
+Is this your first time hacking? Astronomy related? Please see our [Astro Hackathon Tips](https://uw-astro-gaia-datasprint24.netlify.app/tips/).
 
 ## Code of Conduct
-We invite all UW members who are enthusiastic about data science and astronomy. We welcome all, and will be abide by the [University of Washington Student Code of Conduct](https://www.washington.edu/cssc/expectations/).
+We invite all UW members who are enthusiastic about astronomy and data science. We welcome all and will be abide by the [University of Washington Student Code of Conduct](https://www.washington.edu/cssc/expectations/).
