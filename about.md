@@ -5,15 +5,27 @@ title: Gaia DR3 Data Resources
 Below is a list of data resources.
 
 # Gaia Data Products
-Here is a list of Gaia data related resources:
+Here is a list of Gaia data related data products you might find interesting:
 - [Gaia Data Data Release 3 Gaia DR3 content](https://www.cosmos.esa.int/web/gaia/dr3)
 - [Gaia Photometric Science Alerts](http://gsaweb.ast.cam.ac.uk/alerts/home)
 - [Gaia X - Photometric Alerts](http://gsaweb.ast.cam.ac.uk/alerts/gaiax/)
 - [All Gaia Related Products - Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-2)
 - [Gaia Focused Product Release](https://www.cosmos.esa.int/web/gaia/focused-product-release)
+- [StarHorse DR2](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=I/349)
+- [Bailer-Jones+, 2021](https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=I/352)
+
+## Related Data Products
+
+Here is a list of auxilirary datasets from various surveys and telescopes: 
+- [Lightkurve](https://docs.lightkurve.org/) - A friendly Python package for making discoveries with Kepler & TESS.
+- [MAST](https://archive.stsci.edu/) - Barbara A. Mikulski Archive for Space Telescopes (MAST) is an astronomical data archive focused on the optical, ultraviolet, and near-infrared 
+- [Hubble Legacy Archive](https://hla.stsci.edu/) - The Hubble Legacy Archive (HLA) is designed to optimize science from the Hubble Space Telescope by providing online, enhanced Hubble products and advanced browsing capabilities.
+- [NASA/IPAC Extragalactic Database](https://ned.ipac.caltech.edu/)
+- [Transient Naming Server](https://www.wis-tns.org/)
+- [All-Sky Automated Survey for Supernovae" (ASAS-SN) projet](https://www.astronomy.ohio-state.edu/asassn/)
+
 
 # Data Access
-
 
 ##  Tools and Recommendations
 
@@ -23,6 +35,9 @@ Here is a list of Gaia data related resources:
 - [Astropy Gaia TAP+](https://astroquery.readthedocs.io/en/latest/gaia/gaia.html)
 
 - [TOPCAT](https://www.star.bris.ac.uk/~mbt/topcat/) - TOPCAT is an interactive tool designed to view and edit tabular data, including Gaia products. It supports various data formats, offers advanced visualization and analysis features, and operates as a standalone application.
+
+- [Data Carpentry Tutorial working with Gaia](https://datacarpentry.org/astronomy-python/)
+
 
 - [Large Survey DataBase (LSDB)](https://github.com/astronomy-commons/lsdb)
 
