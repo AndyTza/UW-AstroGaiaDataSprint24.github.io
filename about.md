@@ -2,7 +2,10 @@
 title: Gaia DR3 Data Resources
 ---
 
-Below is a list of data resources.
+If you're unsure on what you want to work on, we have a running list of ideas (here). Additionally, you might find the introduction slides useful (here). 
+
+Below we have compiled a list of **many** data resources and ways to access the Gaia data and the myriad of its auxiliary science data products. 
+
 
 # Gaia Data Products
 Here is a list of Gaia data related data products you might find interesting:
@@ -16,7 +19,7 @@ Here is a list of Gaia data related data products you might find interesting:
 
 ## Related Data Products
 
-Here is a list of auxilirary datasets from various surveys and telescopes: 
+Here is a list of auxiliary datasets from various surveys and telescopes: 
 - [Lightkurve](https://docs.lightkurve.org/) - A friendly Python package for making discoveries with Kepler & TESS.
 - [MAST](https://archive.stsci.edu/) - Barbara A. Mikulski Archive for Space Telescopes (MAST) is an astronomical data archive focused on the optical, ultraviolet, and near-infrared 
 - [Hubble Legacy Archive](https://hla.stsci.edu/) - The Hubble Legacy Archive (HLA) is designed to optimize science from the Hubble Space Telescope by providing online, enhanced Hubble products and advanced browsing capabilities.
