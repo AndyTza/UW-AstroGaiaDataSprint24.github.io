@@ -60,7 +60,7 @@ All further updates and communications will be addressed via Slack. Please see [
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">10:30 AM - 12:00 PM</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Hackathon Session 1</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TDB</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">12:00 PM - 1:00 PM</td>
