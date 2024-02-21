@@ -75,7 +75,7 @@ All further updates and communications will be addressed via Slack. Please see [
   <tr>
     <td style="padding: 8px;">3:00 PM - 4:00 PM</td>
     <td style="padding: 8px;">Final Presentations and Conclusions</td>
-    <td style="padding: 8px;">TBD</td>
+    <td style="padding: 8px;">PAA A216</td>
   </tr>
 </table>
 
