@@ -49,7 +49,7 @@ All further updates and communications will be addressed via Slack. Please see [
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">9:30 AM - 10:00 AM</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Breakfast</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Donuts and Coffee</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAA A216</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ All further updates and communications will be addressed via Slack. Please see [
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAA A216</td>
   </tr>
   <tr>
-    <td style="padding: 8px;">3:00 PM - 4:30 PM</td>
+    <td style="padding: 8px;">3:00 PM - 4:00 PM</td>
     <td style="padding: 8px;">Final Presentations and Conclusions</td>
     <td style="padding: 8px;">TBD</td>
   </tr>
