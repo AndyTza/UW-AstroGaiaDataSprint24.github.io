@@ -16,7 +16,7 @@ text_color: "white"
 <div style="background-color: #f5f0ff; padding: 15px; border-radius: 10px; margin-bottom: 20px; max-width: 1000px; text-align: center;">
     <h2 style="color: #333; margin-bottom: 10px;">Table of Contents</h2>
     <div style="display: flex; gap: 20px; align-items: center; justify-content: center; overflow-x: auto;">
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; white-space: nowrap; overflow: hidden;">
             <a href="#about-our-event" style="text-decoration: none; color: #0066cc; font-weight: bold;">About our Event</a>
         </div>
         <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
