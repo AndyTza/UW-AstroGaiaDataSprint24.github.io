@@ -29,6 +29,8 @@ Here is a list of auxiliary datasets from various surveys and telescopes you can
 - [Transient Naming Server](https://www.wis-tns.org/) - Classifications of transient phenomena in the universe. 
 - [All-Sky Automated Survey for Supernovae (ASAS-SN) projet](https://www.astronomy.ohio-state.edu/asassn/) - All-sky optical time-domain survey.
 - [NASA/IPAC Infared Science Archive](https://irsa.ipac.caltech.edu/frontpage/) - Includes optical and infrared observational data.
+- [eROSITA-DE Data Release 1](https://erosita.mpe.mpg.de/dr1/index.html) - DR1 consists of 20626.5 square degrees, which have a variety of effective exposure values, ranging from ∼100 seconds in the Ecliptic equator to more than 10,000 seconds close to the Ecliptic pole in the 0.6—2.3 keV energy band.
+- [Cogsworth](https://cogsworth.readthedocs.io/en/latest/) - A Python package for performing self-consistent population synthesis and galactic dynamics simulations.
 
 
 

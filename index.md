@@ -22,7 +22,16 @@ text_color: "white"
             <a href="#getting-started" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started</a>
         </div>
         <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+            <a href="#getting-started-with-gaia-dr3-data-products" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started with Gaia DR3 Data Products</a>
+        </div>
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+            <a href="#hackathon-advice" style="text-decoration: none; color: #0066cc; font-weight: bold;">Hackathon Advice</a>
+        </div>
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
             <a href="#code-of-conduct" style="text-decoration: none; color: #0066cc; font-weight: bold;">Code of Conduct</a>
+        </div>
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+            <a href="#location" style="text-decoration: none; color: #0066cc; font-weight: bold;">Location</a>
         </div>
     </div>
 </div>
