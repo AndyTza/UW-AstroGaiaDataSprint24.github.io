@@ -63,12 +63,12 @@ All further updates and communications will be addressed via Slack. Please see [
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">12:00 PM - 1:00 PM</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Lunch and Coffee Break</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">12:00 PM - 12:30 PM</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pizza Lunch Break and Social</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAA A216</td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">1:00 PM - 3:00 PM</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">12:30 PM - 3:00 PM</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Hackathon Session 2</td>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">PAA A216</td>
   </tr>
@@ -96,3 +96,6 @@ Is this your first time hacking? Astronomy related? Please see our [Astro Hackat
 
 ## Code of Conduct
 We invite all UW members who are enthusiastic about astronomy and data science. We welcome all and will be abide by the [University of Washington Student Code of Conduct](https://www.washington.edu/cssc/expectations/).
+
+## Location
+We are located on the second floor of the [Physics and Astronomy Auditorium (PAA)](https://www.washington.edu/classroom/PAA). 
