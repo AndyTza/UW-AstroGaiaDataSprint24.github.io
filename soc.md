@@ -1,5 +1,5 @@
 ---
-title: Team Members
+title: Organizing Members
 ---
 
 <style>
@@ -32,7 +32,7 @@ title: Team Members
     <img src="https://astro.washington.edu/sites/astro/files/styles/portrait/public/photos/dsc_1248_headshot_sm.jpeg?h=51636879&itok=p0thH-0g" alt="John Doe">
     <h3>Professor James Davenport</h3>
     <p class="blurb">Professor Davenport is the Associate Director of the DiRAC Institute. His research focuses on stellar variables and optical technosignatures/SETI projects using large surveys.</p>
-    <a href="URL_TO_PROFESSOR_JAMES_WEBSITE" target="_blank">Visit Website</a>
+    <a href="https://jradavenport.github.io/" target="_blank">Visit Website</a>
 </div>
 
 <div class="team-member">
@@ -46,5 +46,5 @@ title: Team Members
     <img src="https://hackmd.io/_uploads/B1EemXTsT.png" alt="Chris Johnson">
     <h3>Jake Kurlander</h3>
     <p class="blurb">Jake is a second-year Astronomy Ph.D. student. He creates and works with simulated asteroid data, but sometimes gets real asteroid data as a treat.</p>
-    <a href="URL_TO_JAKE_WEBSITE" target="_blank">Visit Website</a>
+    <a href="https://astro.washington.edu/people/jake-kurlander" target="_blank">Visit Website</a>
 </div>
