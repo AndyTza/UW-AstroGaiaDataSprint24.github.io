@@ -6,31 +6,38 @@ feature_image: "https://media2.giphy.com/media/c5gfqZKtqIGw3V7ltq/giphy.gif"
 text_color: "white"
 ---
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <!-- Add your other head elements, such as stylesheets, here -->
+</head>
+
 <div style="background-color: #f5f0ff; padding: 15px; border-radius: 10px; margin-bottom: 20px; max-width: 1000px; text-align: center;">
     <h2 style="color: #333; margin-bottom: 10px;">Table of Contents</h2>
-    <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+    <div style="display: flex; gap: 20px; align-items: center; justify-content: center; overflow-x: auto;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
             <a href="#about-our-event" style="text-decoration: none; color: #0066cc; font-weight: bold;">About our Event</a>
         </div>
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
             <a href="#event-logistics" style="text-decoration: none; color: #0066cc; font-weight: bold;">Event Logistics</a>
         </div>
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
             <a href="#program-itinerary" style="text-decoration: none; color: #0066cc; font-weight: bold;">Program Itinerary</a>
         </div>
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
             <a href="#getting-started" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started</a>
         </div>
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
             <a href="#getting-started-with-gaia-dr3-data-products" style="text-decoration: none; color: #0066cc; font-weight: bold;">Getting Started with Gaia DR3 Data Products</a>
         </div>
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
             <a href="#hackathon-advice" style="text-decoration: none; color: #0066cc; font-weight: bold;">Hackathon Advice</a>
         </div>
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
             <a href="#code-of-conduct" style="text-decoration: none; color: #0066cc; font-weight: bold;">Code of Conduct</a>
         </div>
-        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px;">
+        <div style="background-color: #e5dbff; padding: 10px; border-radius: 8px; max-width: 150px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
             <a href="#location" style="text-decoration: none; color: #0066cc; font-weight: bold;">Location</a>
         </div>
     </div>
