@@ -57,6 +57,6 @@ During the event, I created a simple scatter plot depicting the positions of sta
 
 <img src="https://pbs.twimg.com/media/Dboi6e9XUAEvAS4?format=jpg&name=large" alt="M31">
 
-As we approach another major data revolution in Astronomy, with the imminent start of the [Vera C. Rubin Observatory that will conduct the Legacy Survey of Space and Time (LSST)](https://rubinobservatory.org/), the [Nancy Grace Roman Space Telescope](https://roman.gsfc.nasa.gov/), the recently launched JWST, and the future releases of Gaia DR4 and Gaia Legacy Survey, the excitement is undeniable. 
+As we approach another major data revolution in Astronomy, with the imminent start of the [Vera C. Rubin Observatory that will conduct the Legacy Survey of Space and Time (LSST)](https://rubinobservatory.org/), the [Nancy Grace Roman Space Telescope](https://roman.gsfc.nasa.gov/), [JWST](https://webb.nasa.gov/), and the future releases of [Gaia DR4 and Gaia Legacy Survey](https://www.cosmos.esa.int/web/gaia/release), the excitement is undeniable. 
 
-We hope you find this workshop educational and that it provides an opportunity to meet new people, engage in discussions, and learn collaboratively—ingredients that make our jobs so enjoyable.
+We hope you find this workshop educational and that it provides an opportunity to meet new people, engage in discussions, and learn collaboratively—ingredients that make our jobs so enjoyable!
