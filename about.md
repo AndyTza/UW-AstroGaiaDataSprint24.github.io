@@ -2,9 +2,9 @@
 title: Gaia DR3 Data Resources
 ---
 
-If you're unsure on what you want to work on, we have a running list of ideas ([here](https://docs.google.com/document/d/1ibuPqcOPDiiuD12GXNWYgUpU53UAR1QQWI-UN5kzotY/edit?usp=sharing)). Additionally, you might find the introduction slides useful ([here](https://docs.google.com/presentation/d/1Njbu2Nk1q7dunjGVb2qnmydA5MqXergVMHjwqCO-sQk/edit?usp=sharing)). 
+If you're unsure on what you want to work on, we have a running list of ideas ([here](https://docs.google.com/document/d/1ibuPqcOPDiiuD12GXNWYgUpU53UAR1QQWI-UN5kzotY/edit?usp=sharing)). Additionally, you might find the introduction slides useful ([here](https://docs.google.com/presentation/d/1Njbu2Nk1q7dunjGVb2qnmydA5MqXergVMHjwqCO-sQk/edit?usp=sharing)).
 
-Below we have compiled a list of **many** data resources and ways to access the Gaia data and the myriad of its auxiliary science data products. 
+Below we have compiled a list of **many** data resources and ways to access the Gaia data and the myriad of its auxiliary science data products.
 
 
 # Gaia Data Products
@@ -26,7 +26,7 @@ Here is a list of auxiliary datasets from various surveys and telescopes you can
 - [MAST](https://archive.stsci.edu/) - Barbara A. Mikulski Archive for Space Telescopes (MAST) is an astronomical data archive focused on the optical, ultraviolet, and near-infrared.
 - [Hubble Legacy Archive](https://hla.stsci.edu/) - The Hubble Legacy Archive (HLA) is designed to optimize science from the Hubble Space Telescope by providing online, enhanced Hubble products and advanced browsing capabilities.
 - [NASA/IPAC Extragalactic Database](https://ned.ipac.caltech.edu/)
-- [Transient Naming Server](https://www.wis-tns.org/) - Classifications of transient phenomena in the universe. 
+- [Transient Naming Server](https://www.wis-tns.org/) - Classifications of transient phenomena in the universe.
 - [All-Sky Automated Survey for Supernovae (ASAS-SN) projet](https://www.astronomy.ohio-state.edu/asassn/) - All-sky optical time-domain survey.
 - [NASA/IPAC Infared Science Archive](https://irsa.ipac.caltech.edu/frontpage/) - Includes optical and infrared observational data.
 - [eROSITA-DE Data Release 1](https://erosita.mpe.mpg.de/dr1/index.html) - DR1 consists of 20626.5 square degrees, which have a variety of effective exposure values, ranging from ∼100 seconds in the Ecliptic equator to more than 10,000 seconds close to the Ecliptic pole in the 0.6—2.3 keV energy band.
@@ -35,15 +35,15 @@ Here is a list of auxiliary datasets from various surveys and telescopes you can
 
 
 # Data Access
-If you have never used or queried Gaia data, you should look at this list. Below we organized a list of several ways on how users can access the Gaia data-related products to start their projects. The organizing members will also be around if you have any specific questions about how to access data. 
+If you have never used or queried Gaia data, you should look at this list. Below we organized a list of several ways on how users can access the Gaia data-related products to start their projects. The organizing members will also be around if you have any specific questions about how to access data.
 
-## Local Tools 
+## Local Tools
 We will be hosting a [HiPSCated](https://ui.adsabs.harvard.edu/abs/2023AAS...24110506W/abstract) version of Gaia DR3 here. If you are keen to use this version, participants are encouraged to use the latest tool developed by the LINCC Frameworks [Large Survey Database (LSDB)](https://github.com/astronomy-commons/lsdb).
 
+- [LSDB and TAPE Tutorial](https://github.com/lincc-frameworks/notebooks_lf/blob/main/sprints/2024/02_22/gaia_ztf_box_crossmatch.ipynb)
 - Data is stored [here](https://epyc.astro.washington.edu/~lincc-frameworks/hipscat_surveys/gaia_dr3/).
 - [Sample tutorial](https://lsdb.readthedocs.io/en/latest/notebooks/ztf_bts-ngc.html)
 - [For users with access to epyc, you can also see this tutorial](https://github.com/dirac-institute/ZTF_FG_BoyajianSearch/blob/main/analysis/notebooks/tda-uw-demo/hrdiagram-timeseries-ztf-gaia.ipynb)
-
 
 ##  Online Tools
 
@@ -67,5 +67,3 @@ We will be hosting a [HiPSCated](https://ui.adsabs.harvard.edu/abs/2023AAS...241
   - Please note, Andy Tzanidakis might be hacking on this data product during the workhop! If it sounds interesting, we welcome collaborators.
 
 - [Tap VizieR](https://tapvizier.u-strasbg.fr/adql/?gaia)
-
-
