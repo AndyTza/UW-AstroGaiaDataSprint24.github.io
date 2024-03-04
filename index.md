@@ -38,6 +38,12 @@ text_color: "white"
 
 
 
+# Thank you!
+
+A big thank you to all the participants of the event. We had a very successful data sprint day learning about time series, machine learning, stars, Gaia, using LSDB, and TAPE, along with various other projects. Special thanks to Jim Davenport & DiRAC for the pizza and breakfast, and to the LINCC group for the LSDB and TAPE code demo. Your support made this event truly special! 💜
+
+[Final Presentations link can be found here](https://docs.google.com/presentation/d/1WyhSvMlngvyCVTQwENzZ_MnMEifeFPMXRjN4vqqwN28/edit?usp=sharing).
+
 
 # About our Event
 
@@ -109,4 +115,4 @@ Is this your first time hacking? Astronomy related? Please see our [Astro Hackat
 We invite all UW members who are enthusiastic about astronomy and data science. We welcome all and will be abide by the [University of Washington Student Code of Conduct](https://www.washington.edu/cssc/expectations/).
 
 ## Location
-We are located on the second floor of the [Physics and Astronomy Auditorium (PAA)](https://www.washington.edu/classroom/PAA). 
+We are located on the second floor of the [Physics and Astronomy Auditorium (PAA)](https://www.washington.edu/classroom/PAA).
